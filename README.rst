@@ -2,8 +2,8 @@
 Mopidy-Ferguson
 ****************
 
-`Mopidy <http://www.mopidy.com/>`_extension to control Mopidy
-by GPIO buttons_.
+`Mopidy <http://www.mopidy.com/>`extension to control Mopidy
+by GPIO connected controls.
 
 
 Installation
