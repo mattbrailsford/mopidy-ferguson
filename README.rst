@@ -2,7 +2,7 @@
 Mopidy-Ferguson
 ****************
 
-`Mopidy <http://www.mopidy.com/>`_ extension to control Mopidy
+`Mopidy <http://www.mopidy.com/>`_extension to control Mopidy
 by GPIO buttons_.
 
 
