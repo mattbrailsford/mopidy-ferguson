@@ -2,7 +2,7 @@
 Mopidy-Ferguson
 ****************
 
-`Mopidy <http://www.mopidy.com/>`extension to control Mopidy
+`Mopidy <http://www.mopidy.com/>`_ extension to control Mopidy
 by GPIO connected controls.
 
 
@@ -15,17 +15,6 @@ Install by running::
 
 Or, if available, install the Debian/Ubuntu package from `apt.mopidy.com
 <http://apt.mopidy.com/>`_.
-
-
-Configuration
-=============
-
-Before starting Mopidy, you must add your Soundspot username and password
-to the Mopidy configuration file::
-
-    [ferguson]
-    username = bob
-    password = secret
 
 
 Project resources
